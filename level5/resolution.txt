@@ -1,0 +1,8 @@
+1. L'url du MVP déployé sur Heroku se trouve ci-après:
+
+https://shift-manager-test.herokuapp.com/
+
+
+2. L'url du repo Github correspondant se trouve ci-après:
+
+https://github.com/clementbruno/shift-manager
